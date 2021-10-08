@@ -1,4 +1,4 @@
-{
+[{
     "type": "FeatureCollection",
     "features": [{
         "type": "Feature",
@@ -47,4 +47,4 @@
             "enterprisestatus": true
         }
     }]
-}
+}]
